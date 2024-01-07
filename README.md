@@ -1,3 +1,5 @@
-# git-demo
+## git-demo
 
-*add dummy text
+* add dummy text
+ 
+* add task 1 
